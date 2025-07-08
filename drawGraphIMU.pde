@@ -2,7 +2,7 @@ import processing.serial.*;
 
 Serial myPort;
 
-final int WINDOW_SIZE = 20;
+final int WINDOW_SIZE = 100;
 final int MAX_POINTS = 600;  // Số điểm hiển thị trên đồ thị
 
 // Danh sách giá trị
